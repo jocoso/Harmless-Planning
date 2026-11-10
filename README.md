@@ -1,6 +1,3 @@
-markdown
-
-```markdown
 # OBJECTIVES & OUTCOMES (O&O)
 
 ### The Adventurer's Handbook
@@ -136,7 +133,5 @@ Its purpose is to provide an adaptable structure through which individuals can d
 
 **EXPLORE. EXPERIMENT. UNDERSTAND. DEVELOP.**
 
----
-
 *Objectives & Outcomes — Your adventure is your education.*
-```
+
