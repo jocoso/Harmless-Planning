@@ -1,137 +1,225 @@
-# OBJECTIVES & OUTCOMES (O&O)
+# HARMLESS PLANNING
+## THE FIGHTER'S HANDBOOK
 
-### The Adventurer's Handbook
+**A Gamified Productivity Framework for Personal Development and Objective Completion**
 
-**A gamified framework for learning, studying and personal development.**
-
-*Understand Yourself. Discover How You Learn. Define Your Objectives. Achieve Your Outcomes.*
+`PLAYER EDITION` · `CORE SYSTEM` · `FIRST EDITION`
 
 ---
 
-## 1. Overview
+## Overview
 
-Objectives & Outcomes (O&O) is an educational framework that combines learning methodologies with role-playing game mechanics to support personal development, study organisation and independent learning.
+Harmless Planning is a productivity framework inspired by traditional fighting games.
 
-The software allows users to create learning profiles, explore different learning approaches, establish objectives, organise activities and monitor their progress through a gamified system.
+It transforms everyday activities, personal objectives, and larger projects into structured encounters.
 
-O&O uses familiar RPG concepts to make the learning process interactive, structured and adaptable.
+Users select fighters representing different productivity methodologies, build movesets from individual skills, execute attacks, and track progress toward completing objectives.
 
-## 2. Core Features
+The framework combines productivity, personal development, task management, and game mechanics into a unified system.
 
-- **Character Creation:** Create a personal learning profile.
-- **Five Orders:** Explore different philosophical approaches to learning.
-- **Nine Classes:** Select and experiment with different learning methodologies.
-- **Abilities and Skills:** Access learning strategies associated with character development.
-- **Equipment System:** Configure complementary skills and approaches.
-- **Quest System:** Transform learning objectives into manageable activities.
-- **Adventure System:** Organise larger projects into multiple objectives.
-- **Progression System:** Track experience, development and achievements.
-- **Focus Sessions:** Organise working intervals and recovery periods.
-- **Research Journal:** Record observations, learning experiences and reflections.
+## Core Concept
 
-## 3. Character System
+The system revolves around three fundamental elements:
 
-Each character is defined through two primary elements:
-
-### Orders
-
-Five philosophical orientations:
-
-- Sage
-- Strategist
-- Scholar
-- Adventurer
-- Hearth
-
-### Classes
-
-Nine learning methodologies:
-
-- Fighter
-- Paladin
-- Druid
-- Ranger
-- Rogue
-- Artificer
-- Wizard
-- Bard
-- Warlock
-
-Orders and Classes are complementary components of character development. They are conceptual learning frameworks, not scientifically validated personality classifications.
-
-## 4. Universal Game Systems
-
-| System | Function |
+| Element | Description |
 |---|---|
-| Character | Personal learning profile |
-| Orders | Learning philosophies |
-| Classes | Learning methodologies |
-| Abilities | Individual learning strategies |
-| Equipment | Configurable skill combinations |
-| Quests | Individual learning objectives |
-| Adventures | Larger learning projects |
-| Encounters | Practical applications of knowledge |
-| Experience | Recognition of learning progress |
-| Levels | Development milestones |
-| Focus Sessions | Structured working periods |
-| Research Journal | Learning observations and reflections |
+| **PLAYER 1** | The user performing the work. |
+| **PLAYER 2** | The objective or challenge being completed. |
+| **THE FIGHT** | The actions performed to complete the objective. |
 
-## 5. Learning Workflow
+### Core Gameplay Loop
 
-The standard user journey follows this structure:
+1. Define an objective.
+2. Select a fighter.
+3. Choose a fighting style.
+4. Build or select a moveset.
+5. Execute skills and combos.
+6. Track progress.
+7. Complete the objective.
 
-1. Create a character.
-2. Establish a learning profile.
-3. Select an Order and Class.
-4. Define a learning objective.
-5. Create or select a Quest.
-6. Configure available skills.
-7. Complete focused activities.
-8. Record results and reflections.
-9. Monitor progression.
-10. Adapt future learning approaches.
+---
 
-## 6. Research and Evaluation
+# Core Systems
 
-O&O incorporates a research-oriented approach to educational development.
+## 1. Fighter System
 
-The framework distinguishes between established educational research, psychological theories, existing learning methodologies and original O&O design proposals.
+Fighters represent different productivity methodologies.
 
-Users can document experiences and evaluate the usefulness of different approaches.
+Each fighter has:
 
-Relevant research areas include:
+- A unique identity.
+- A productivity philosophy.
+- Six core attributes.
+- A specialised approach to problem-solving.
+- Normal attacks.
+- Special moves.
+- Defensive abilities.
+- Signature techniques.
+- Strengths and limitations.
 
-- Attention and motivation.
-- Self-regulated learning.
-- Executive functioning.
-- Metacognition.
-- Cognitive flexibility.
-- Time management.
-- Gamification.
-- Learning engagement.
+### The Nine Fighters
 
-## 7. Personal Development
+| Fighter | Specialisation | Core Philosophy |
+|---|---|---|
+| **The Determined** | Execution | Progress through action. |
+| **The Disciplined** | Consistency | Protect your commitments. |
+| **The Adaptive** | Adaptation | Understand connections and adjust your approach. |
+| **The Explorer** | Investigation | Explore before committing. |
+| **The Improviser** | Creative Problem-Solving | When one approach fails, discover another. |
+| **The Builder** | Systems and Construction | Build systems that make work easier. |
+| **The Analyst** | Research and Understanding | Understand the underlying principles. |
+| **The Communicator** | Communication and Expression | Understand something well enough to explain it. |
+| **The Strategist** | Risk Awareness and Preparation | Understand the risks before committing resources. |
 
-The ultimate objective is to encourage independent learning.
+## 2. Attribute System
 
-Users should progressively develop the ability to:
+Each fighter uses six core attributes.
 
-- Identify learning objectives.
-- Select appropriate methodologies.
-- Organise resources.
-- Manage their time and attention.
-- Monitor understanding.
-- Adapt strategies.
-- Evaluate outcomes.
-- Develop individual learning systems.
+| Attribute | Function | Initial Points |
+|---|---|---:|
+| Power | Capacity to tackle demanding activities. | 7 |
+| Speed | Ability to initiate and execute tasks quickly. | 7 |
+| Precision | Attention to detail and accuracy. | 7 |
+| Defence | Resistance to interruptions and distractions. | 7 |
+| Stamina | Capacity to sustain effort over time. | 7 |
+| Technique | Ability to apply methodologies effectively. | 7 |
 
-## 8. Core Philosophy
+**Total Initial Attribute Points: 42**
 
-O&O does not prescribe a single correct way to learn.
+## 3. Moveset System
 
-Its purpose is to provide an adaptable structure through which individuals can discover, experiment with and develop different approaches to learning.
+Skills are the fundamental building blocks of Harmless Planning.
 
-**EXPLORE. EXPERIMENT. UNDERSTAND. DEVELOP.**
+A skill represents an individual productive action or technique.
 
-*Objectives & Outcomes — Your adventure is your education.*
+Skills should:
 
+- Have a clear name.
+- Represent one actionable behaviour.
+- Have a practical application.
+- Be independently selectable.
+- Be reusable where appropriate.
+- Have a clear completion condition.
+
+Movesets are collections of skills organised according to a fighter's methodology.
+
+## 4. Attack System
+
+The framework classifies actions into seven move categories:
+
+| Move Category | Function |
+|---|---|
+| Normal Attack | Basic productive action. |
+| Heavy Attack | Completion of a demanding task segment. |
+| Special Move | Advanced productivity technique. |
+| Defensive Move | Protection against interruptions. |
+| Counter | Change of methodology after a setback. |
+| Recovery Move | Resumption of work after interruption. |
+| Signature Move | Application of a fighter's distinctive methodology. |
+
+## 5. Combo System
+
+Combos are sequences of skills executed consecutively toward one objective.
+
+Combos:
+
+- Can emerge naturally during work.
+- Can be constructed before a match.
+- Can be saved as personal presets.
+- May be editable or fixed, depending on the fighter.
+- Remain optional unless a fighter's methodology requires them.
+
+Different fighters may approach the same objective using different combinations of skills.
+
+## 6. Combat System
+
+Every match begins with a defined opponent.
+
+An opponent represents an objective the user wants to accomplish.
+
+Each opponent contains:
+
+- Name.
+- Description.
+- Difficulty.
+- Health.
+- Requirements.
+- Resources.
+- Victory condition.
+
+### Health and Damage
+
+The system uses two separate health values:
+
+**PLAYER 1 HEALTH**
+
+Represents the remaining allocated time available for an activity.
+
+**PLAYER 2 HEALTH**
+
+Represents the remaining workload required to complete the objective.
+
+**DAMAGE**
+
+Represents measurable progress against PLAYER 2.
+
+Damage can be measured through:
+
+- Completed tasks.
+- Milestones.
+- Time-based work.
+- Demonstrable deliverables.
+- Objective-specific completion criteria.
+
+Users can adjust how health is distributed across an objective.
+
+- **VICTORY:** The objective's completion conditions are satisfied.
+- **DEFEAT:** PLAYER 1's health reaches zero before the objective is completed.
+
+---
+
+# Design Principles
+
+Harmless Planning is built around the following principles:
+
+1. **Methodological Freedom:** Different fighters can produce different routes to the same objective.
+2. **Modularity:** Large objectives can be separated into smaller, independently executable skills.
+3. **Flexibility:** Skills can be selected and executed without mandatory sequences.
+4. **Customisation:** Players can develop their own movesets and combos.
+5. **Measurable Progress:** Actions should contribute to demonstrable objective completion.
+6. **Adaptability:** Different opponents may require different fighters and methodologies.
+
+---
+
+# Project Status
+
+**Current development focus:** Core gameplay design and system definition.
+
+### Defined Systems
+
+- [x] Core concept and gameplay terminology.
+- [x] Nine fighter archetypes.
+- [x] Six core attributes.
+- [x] Skill and atomic action system.
+- [x] Move categories.
+- [x] Combo system.
+- [x] Opponent definition.
+- [x] Initial health and damage concepts.
+
+### Remaining Design Work
+
+- [ ] Complete combat rules.
+- [ ] Define attribute calculations and effects.
+- [ ] Define health and damage calculations.
+- [ ] Define round and match mechanics.
+- [ ] Define defensive and recovery mechanics.
+- [ ] Develop progression and experience systems.
+- [ ] Define game modes.
+- [ ] Develop fighter-specific movesets.
+- [ ] Define application functionality and interface.
+
+---
+
+# Project Philosophy
+
+**Define your opponent. Select your fighter. Choose your attacks. Execute your work. Defeat your opponent.**
