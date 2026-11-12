@@ -6,6 +6,8 @@
 `PLAYER EDITION` · `CORE SYSTEM` · `FIRST EDITION`
 
 ---
+<img width="4000" height="3011" alt="image" src="https://github.com/user-attachments/assets/e6ceffa9-0287-426f-87e9-93c23a486716" />
+
 
 ## Overview
 
